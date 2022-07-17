@@ -9,7 +9,7 @@ OKAY IMMA SAY THIS NOW YOU NEED INPUT 5 FOR THIS TO BUILD. THERE ARE TOO MANY FI
 
 IF YOU DONT KNOW HOW TO IMPORT IT JUST UHH DRAG IN OVER THE WINDOW
 
-AND THEN FIND `__input_config_profiles_and_default_bindings` AND REPLACE THAT FILE WITH THIS (Input > Configuration):
+AND THEN FIND `__input_config_profiles_and_default_bindings` (Input > Configuration) AND REPLACE THAT FILE WITH THIS:
 
 ```gml
 //Input defines the default profiles as a macro called 
